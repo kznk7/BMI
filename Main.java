@@ -6,13 +6,13 @@ public class Main {
         //課題2(Bot)
         //名前,年齢をPersonクラスを使ったものに変更する
         Person person = new Person(firstName, lastName, age);
-        
+
         //課題3
         //身長,体重,BMIをHealthクラスで定義および計算するように変更する
         double height = 1.735;
         double weight = 67.0;
         double bmi = weight / height / height;
-        
+
         //課題4(Bot)
         //名前,年齢,身長,体重を入力する機能
         //Scanner scanner = new Scanner(System.in);
