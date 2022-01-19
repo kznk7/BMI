@@ -10,7 +10,7 @@ class Health {
 	//課題4
 	//BMIの計算結果を返す
     public double bmi() {
-
+        return 0;
     }
 
 	//課題4
