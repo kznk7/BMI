@@ -22,6 +22,7 @@ public class Main {
 
         //課題1
         //名前,年齢,身長,体重,BMIの表示
+        System.out.println("名前,年齢,身長,体重,BMIの表示");
 
     }
     //課題3
